@@ -1,0 +1,94 @@
+/* 전체 페이지 스타일 */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+/* 컨테이너 설정 */
+.container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* 제목 스타일 */
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+/* 업로드 폼 스타일 */
+.form-container {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.form-container .file {
+    font-size: 16px;
+    padding: 5px 10px;
+    border: 2px solid #28a745;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.form-container .submit {
+    background-color: #28a745;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: 0.5s;
+}
+
+.form-container .submit:hover {
+    background-color: #218838;
+}
+
+/* 업로드 결과 스타일 */
+.result-container {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.result-container h2 {
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.result-container img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.result-container a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+
+.result-container a:hover {
+    background-color: #218838;
+}
+
+/* 에러 메시지 스타일 */
+.error {
+    color: red;
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+}
