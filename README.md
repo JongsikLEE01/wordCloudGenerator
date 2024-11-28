@@ -161,7 +161,7 @@ python manage.py runserver
 
 # 5. 실행 화면
 ### HTML 화면
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/78dc0e61-0667-415d-93d6-66223b91cf67/dfd8452d-6ee1-4b3e-bff8-6e4a0961c4cb/image.png)
+![wordcloud](https://github.com/user-attachments/assets/d42f3cec-dc56-4375-9e4c-e15c7980c28c)
 
 <br>
 
