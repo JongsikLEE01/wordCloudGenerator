@@ -16,7 +16,7 @@
 ### 사용 언어
 - Python v3.13.0
 - pip v24.3.1
-- Django
+- Django v5.1.3
 <br><br><br>
 
 # 2. 주요 기능 및 흐름
